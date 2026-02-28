@@ -6,7 +6,6 @@
   <key>items</key>
   <array>
     <dict>
-
       <key>assets</key>
       <array>
         <dict>
@@ -25,9 +24,8 @@
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>speed run 破解</string>
+        <string>破解speedstars</string>
       </dict>
-
     </dict>
   </array>
 </dict>
