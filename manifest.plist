@@ -13,20 +13,20 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://你的帳號.github.io/你的資料夾/app.ipa</string>
+          <string>https://forrest1117.github.io/111/app.ipa</string>
         </dict>
       </array>
 
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>你的.bundle.id</string>
+        <string>com.lukedoukakis.speedstars</string>
         <key>bundle-version</key>
         <string>1.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>App 名稱</string>
+        <string>speed run 破解</string>
       </dict>
 
     </dict>
